@@ -1,4 +1,4 @@
-## My Notes App
+## NotesApp-DjangoReact
 
 * This is a Django React App used for doing DevOps Stuff like building, testing, deploying, etc..
 * As the title says, it's a notes app with the following features:
